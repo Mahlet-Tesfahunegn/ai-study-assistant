@@ -1,5 +1,11 @@
-# AI Study Assistant
+AI Study Assistant
 
-Python CLI  study assistant application called "LearnCompass" for managing study notes, summarise them and generate quizes.
+A Python-based AI study assistant for note-taking, summarization, explanations, and quiz generation.
 
-Built as a learning project for Python, system design, and future AI integration.
+Tech Stack
+    Python
+    JSON
+    AI APIs (planned)
+
+Goal
+Learn Python and AI development by building a real-world application
