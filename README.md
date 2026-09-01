@@ -5,7 +5,7 @@ A Python-based AI study assistant for note-taking, summarization, explanations, 
 # Tech Stack
     Python
     JSON
-    AI APIs (planned)
+    AI APIs 
 
 # Goal
 Learn Python and AI development by building a real-world application
